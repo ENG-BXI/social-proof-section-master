@@ -1,3 +1,4 @@
+live demo => https://eng-bxi.github.io/social-proof-section-master/
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
